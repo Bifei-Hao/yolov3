@@ -1,4 +1,0 @@
-classes=5
-train=/content/drive/MyDrive/data/output_train.txt
-valid=/content/drive/MyDrive/data/output_test.txt
-names=data/coco.names
