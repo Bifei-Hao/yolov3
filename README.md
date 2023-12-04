@@ -2,9 +2,9 @@
 
 lack yolov3_weights, you can download as:
 ```
-%cd drive/MyDrive
+%cd drive/MyDrive/yolov3
 os.mkdir('weights')
 %cd 'weights'
-!wget -c "https://pjreddie.com/media/files/yolov3.weights" --header "Referer: pjreddie.com"
+!wget -c "https://pjreddie.com/media/files/darknet53.conv.74" --header "Referer: pjreddie.com"
 
 ```
